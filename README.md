@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vijay Kumar Dadi
+# 👋 Hi, I’m Vijay Kumar Dadi
 
 🚀 Product guy| Healthcare AI | 0→1 Builder  
 
@@ -70,6 +70,6 @@ I’m deeply interested in solving **high-impact healthcare problems** using tec
 
 > Especially where AI meets real-world clinical workflows.
 
-If you're building in **healthtech, AI, or clinical systems**, let’s connect 🤝
+If you’re building in **healthtech, AI, or clinical systems**, let’s connect 🤝
 
 ---
