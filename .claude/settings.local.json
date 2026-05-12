@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Skill(statusline)"
+      "Skill(statusline)",
+      "Bash(npx shadcn@latest add card badge --yes)",
+      "Bash(git add *)"
     ]
   }
 }

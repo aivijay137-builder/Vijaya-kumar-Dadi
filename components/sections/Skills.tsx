@@ -12,6 +12,7 @@ export function Skills() {
           <p className="hover:opacity-70 transition">0→1 Product Development</p>
           <p className="hover:opacity-70 transition">Clinical Signals + ML Systems</p>
           <p className="hover:opacity-70 transition">Built & Shipped End-to-End</p>
+          <p className="hover:opacity-70 transition">FHIR R4, HL7 v2/v3</p>
         </div>
 
         <p className="mt-8 text-sm text-muted-foreground">

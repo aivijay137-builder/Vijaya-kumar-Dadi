@@ -2,7 +2,7 @@ export function Recognition() {
   const items = [
     { title: "MedTech Innovator APAC (Olympus)", label: "Finalist" },
     { title: "UK–India HealthTech Accelerator", label: "Selected" },
-    { title: "BIRAC NIDHI Prayas Grant", label: "Awarded" },
+    { title: "BIRAC & NIDHI Prayas Grant", label: "Awarded" },
   ];
 
   return (
