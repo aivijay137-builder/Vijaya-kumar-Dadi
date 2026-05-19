@@ -5,7 +5,8 @@
       "Bash(npx shadcn@latest add card badge --yes)",
       "Bash(git add *)",
       "Bash(git push *)",
-      "Bash(ssh-keygen *)"
+      "Bash(ssh-keygen *)",
+      "Bash(npx next *)"
     ]
   }
 }

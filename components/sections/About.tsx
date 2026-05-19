@@ -38,8 +38,7 @@ export function About() {
             </Reveal>
             <Reveal delay={260}>
               <p className="text-lg text-neutral-600 leading-relaxed">
-                My work sits at the intersection of hardware, machine
-                learning, and product design. I care deeply about systems that
+                I care deeply about systems that
                 are not just accurate, but{" "}
                 <span className="text-neutral-900 font-medium">
                   explainable, trustworthy, and worth using.

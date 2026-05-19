@@ -18,7 +18,7 @@ export function Hero() {
             </div>
 
             <p className="text-xl md:text-2xl text-neutral-500 font-light leading-relaxed max-w-md">
-              I&apos;ve spent 8+ years in pharma and digital health, building products that solve real-world healthcare problems. I enjoy spotting gaps in how care actually works and turning them into simple, useful solutions—often using AI and data. I work closely with clinicians, data scientists, and engineers to build products that genuinely help patients and fit into everyday clinical workflows.
+              I&apos;ve spent 9+ years in pharma and digital health, building products that solve real-world healthcare problems. I enjoy spotting gaps in how care actually works and turning them into simple, useful solutions, often using AI and data. I work closely with clinicians, data scientists, and engineers to build products that genuinely help patients and fit into everyday clinical workflows.
             </p>
 
             <div className="flex items-center gap-3 flex-wrap">
