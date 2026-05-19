@@ -21,7 +21,7 @@ export function About() {
           <div className="lg:col-span-3 space-y-6">
             <Reveal delay={100}>
               <p className="text-lg text-neutral-600 leading-relaxed">
-                Most healthcare software is reactive — it helps you manage
+                Most healthcare software is reactive. It helps you manage
                 illness after it arrives. I&apos;m interested in the opposite
                 problem: screening and proactive care using continuous data signals to surface risk before a
                 patient ever feels sick.
