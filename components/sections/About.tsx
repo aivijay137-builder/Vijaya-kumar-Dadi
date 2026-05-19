@@ -46,35 +46,6 @@ export function About() {
                 </span>
               </p>
             </Reveal>
-
-            <Reveal delay={340}>
-              <div className="mt-8 pt-8 border-t border-neutral-200 grid grid-cols-2 gap-6">
-                {[
-                  {
-                    label: "Currently exploring",
-                    value: "ML based Screening/Diagnostics/Continuous vital monitoring",
-                  },
-                  {
-                    label: "Background",
-                    value: "Product · AI/ML · Healthcare",
-                  },
-                  { label: "Driven by", value: "Early detection saves lives" },
-                  {
-                    label: "Open to",
-                    value: "Healthcare AI collaborations",
-                  },
-                ].map((item) => (
-                  <div key={item.label}>
-                    <p className="text-xs text-neutral-400 uppercase tracking-wider mb-1">
-                      {item.label}
-                    </p>
-                    <p className="text-sm font-medium text-neutral-800">
-                      {item.value}
-                    </p>
-                  </div>
-                ))}
-              </div>
-            </Reveal>
           </div>
         </div>
       </div>
