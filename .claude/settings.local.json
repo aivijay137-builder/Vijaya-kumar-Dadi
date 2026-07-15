@@ -6,7 +6,24 @@
       "Bash(git add *)",
       "Bash(git push *)",
       "Bash(ssh-keygen *)",
-      "Bash(npx next *)"
+      "Bash(npx next *)",
+      "Bash(npx vercel *2)",
+      "Bash(npx tsc *)",
+      "Skill(run)",
+      "Bash(ls .claude/skills)",
+      "Bash(ls .claude)",
+      "Bash(chromium-cli --help)",
+      "Bash(npx --yes playwright --version)",
+      "Bash(curl -sf http://localhost:3000)",
+      "Bash(mkdir -p screenshots)",
+      "Bash(npm ls *)",
+      "Bash(npx playwright *)",
+      "Bash(node verify.mjs)",
+      "Bash(git check-ignore *)",
+      "Bash(echo \"exit:$?\")",
+      "Bash(git fetch *)",
+      "Bash(git rebase *)",
+      "Bash(git stash *)"
     ]
   }
 }

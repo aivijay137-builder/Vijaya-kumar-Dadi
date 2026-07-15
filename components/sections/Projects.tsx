@@ -22,6 +22,17 @@ type Project = {
 
 const healthcareProjects: Project[] = [
   {
+    id: 5,
+    label: "EVALS",
+    title: "CareEval — LLM Eval Harness for Caregiver AI",
+    problem:
+      "Caregiver-support AI gives high-stakes medical guidance with no way to verify it's safe before shipping — a prompt change that reads as \"more helpful\" can silently regress on safety, and nobody notices until a real caregiver is affected.",
+    solution:
+      "A validated evaluation harness: a binary safety rubric, 50 hand-labelled Hindi caregiver conversations, and an LLM judge validated against human labels (TPR 1.00, TNR 0.93) before its scores are trusted. Caught a real regression — a prompt version that looked better on completeness silently failed on triage safety — and blocked it via an automated gate.",
+    tags: ["LLM Evals", "Python", "Claude API"],
+    href: "https://aivijay137-builder.github.io/careEval/",
+  },
+  {
     id: 1,
     label: "Model",
     title: "Lung Sound Classification Model",
@@ -64,17 +75,6 @@ const healthcareProjects: Project[] = [
       "Gives husbands a clear view of their wife's daily symptoms and mood, with contextual recommendations on how to support her better.",
     tags: ["React Native", "NLP", "Product Design"],
     href: "https://postpartum-sooty.vercel.app/",
-  },
-  {
-    id: 5,
-    label: "EVAL",
-    title: "CareEval — LLM Eval Harness for Caregiver AI",
-    problem:
-      "Caregiver-support AI gives high-stakes medical guidance with no way to verify it's safe before shipping — a prompt change that reads as \"more helpful\" can silently regress on safety, and nobody notices until a real caregiver is affected.",
-    solution:
-      "A validated evaluation harness: a binary safety rubric, 50 hand-labelled Hindi caregiver conversations, and an LLM judge validated against human labels (TPR 1.00, TNR 0.93) before its scores are trusted. Caught a real regression — a prompt version that looked better on completeness silently failed on triage safety — and blocked it via an automated gate.",
-    tags: ["LLM Evals", "Python", "Claude API"],
-    href: "https://aivijay137-builder.github.io/careEval/",
   },
 ];
 
